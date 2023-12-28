@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>I am currently a web developer, I have more experience in front-end with ReactJS and Laravel and I also understand Back-End with NodeJS (express & Fastify).
+<p>I am currently a web developer, I have more experience in front-end with ReactJS and Laravel and I also understand Back-End with NodeJS (express & Fastify) and Laravel.
 
 And I'm studying Mobile Development with ReactJS with Rocketseat and it's been really cool
 
