@@ -20,6 +20,10 @@ And I'm studying Mobile Development with React-Native with Rocketseat and it's b
 
 I love Software Engineering because it gives me an overview of building software</p>
 
+<p>In 2023 I was one of the representatives of Angola at the international fair of ideas, technology and innovation -IENA in Nurmberg Germany, where we were awarded 19 medals</p>
+
+<p>I still have a lot to learn so I continue to seek knowledge.</p>
+
 <div>
   <a href="https://github.com/joilsoncapemba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joilsoncapemba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
